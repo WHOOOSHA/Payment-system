@@ -1,0 +1,6 @@
+host: db
+port: 5432
+user: postgres
+password: "1"
+dbname: payment_db
+sslmode: disable
